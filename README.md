@@ -10,6 +10,11 @@ Copy & paste `.env.sample` to `.env.local` file and use your own variables:
 cp .env.sample .env.local
 ```
 
+Run postgres using docker
+```bash
+docker-compose up -d
+```
+
 Install dependencies
 ```bash
 pnpm install
