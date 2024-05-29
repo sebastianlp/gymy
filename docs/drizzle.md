@@ -12,6 +12,11 @@ Apply migrations
 pnpm run drizzle:migrate
 ```
 
+Seed DB
+```bash
+pnpm run db:seed
+```
+
 Open drizzle studio
 ```bash
 pnpm run drizzle:studio

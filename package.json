@@ -8,7 +8,8 @@
     "drizzle:generate": "drizzle-kit generate",
     "drizzle:migrate": "drizzle-kit migrate",
     "drizzle:push": "drizzle-kit push",
-    "drizzle:studio": "drizzle-kit studio"
+    "drizzle:studio": "drizzle-kit studio",
+    "db:seed": "SEED=true tsx src/db/seed.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
