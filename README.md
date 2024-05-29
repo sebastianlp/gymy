@@ -20,8 +20,9 @@ Install dependencies
 pnpm install
 ```
 
-Run the development server:
+[Setup db](/docs/drizzle.md)
 
+Run the development server:
 ```bash
 pnpm dev
 ```
